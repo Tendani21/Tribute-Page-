@@ -1,0 +1,50 @@
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 20px;
+  filter: brightness(25%) saturate(140%);
+}
+
+#tribute-info{
+  text-align: justify;
+  padding-right: 40px;
+  padding-bottom: 30px;
+}
+
+#img-caption{
+  text-align: center;
+}
+
+#button{
+  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-left: 10px;
+  background-color: #8e1600;
+  border: none;
+  #color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a {
+  color: white;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
