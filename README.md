@@ -1,4 +1,4 @@
 # TributePage
 Free Code Camp Tribute Page 
 
-This project demostrate my basic HTML and CSS skills 
+This project demostrates my basic HTML and CSS skills 
